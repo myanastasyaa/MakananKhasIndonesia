@@ -140,8 +140,8 @@ fun IndonesianFoodApp() {
                         contentDescriptionResourceId = R.string.ayam_taliwang,
                         nameResourceId = R.string.ayam_taliwang,
                         originiResourceId = R.string.ntb,
-                        onButtonNextClick = { currentStep = 4 },
-                        onButtonPreviousClick = { currentStep = 6 })
+                        onButtonNextClick = { currentStep = 6 },
+                        onButtonPreviousClick = { currentStep = 4 })
                 }
                 6 -> {
                     GambardanTeksMakanan(
@@ -149,8 +149,8 @@ fun IndonesianFoodApp() {
                         contentDescriptionResourceId = R.string.cakalang,
                         nameResourceId = R.string.cakalang,
                         originiResourceId = R.string.papua_barat,
-                        onButtonNextClick = { currentStep = 5 },
-                        onButtonPreviousClick = { currentStep = 7 })
+                        onButtonNextClick = { currentStep = 7 },
+                        onButtonPreviousClick = { currentStep = 5 })
                 }
                 7 -> {
                     GambardanTeksMakanan(
@@ -158,8 +158,8 @@ fun IndonesianFoodApp() {
                         contentDescriptionResourceId = R.string.gence_ruan,
                         nameResourceId = R.string.gence_ruan,
                         originiResourceId = R.string.kaltim,
-                        onButtonNextClick = { currentStep = 6 },
-                        onButtonPreviousClick = { currentStep = 8 })
+                        onButtonNextClick = { currentStep = 8 },
+                        onButtonPreviousClick = { currentStep = 6 })
                 }
                 8 -> {
                     GambardanTeksMakanan(
@@ -167,8 +167,8 @@ fun IndonesianFoodApp() {
                         contentDescriptionResourceId = R.string.mi_gomak,
                         nameResourceId = R.string.mi_gomak,
                         originiResourceId = R.string.sumatera_utara,
-                        onButtonNextClick = { currentStep = 7 },
-                        onButtonPreviousClick = { currentStep = 9 })
+                        onButtonNextClick = { currentStep = 9 },
+                        onButtonPreviousClick = { currentStep = 7 })
                 }
                 9 -> {
                     GambardanTeksMakanan(
@@ -176,8 +176,8 @@ fun IndonesianFoodApp() {
                         contentDescriptionResourceId = R.string.gudeg,
                         nameResourceId = R.string.gudeg,
                         originiResourceId = R.string.diy,
-                        onButtonNextClick = { currentStep = 8 },
-                        onButtonPreviousClick = { currentStep = 10 })
+                        onButtonNextClick = { currentStep = 10 },
+                        onButtonPreviousClick = { currentStep = 8 })
                 }
                 10 -> {
                     GambardanTeksMakanan(
@@ -185,8 +185,8 @@ fun IndonesianFoodApp() {
                         contentDescriptionResourceId = R.string.lontong_balap,
                         nameResourceId = R.string.lontong_balap,
                         originiResourceId = R.string.jatim,
-                        onButtonNextClick = { currentStep = 9 },
-                        onButtonPreviousClick = { currentStep = 1 })
+                        onButtonNextClick = { currentStep = 1 },
+                        onButtonPreviousClick = { currentStep = 9 })
                 }
             }
         }
