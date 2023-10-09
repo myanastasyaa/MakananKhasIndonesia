@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Makanan Khas Indonesia</string>
+    <string name="rendang" translatable="false">Rendang</string>
+    <string name="gulai_belacan" translatable="false">Gulai Belacan</string>
+    <string name="pempek" translatable="false">Pempek</string>
+    <string name="ayam_betutu" translatable="false">Ayam Betutu</string>
+    <string name="ayam_taliwang" translatable="false">Ayam Taliwang</string>
+    <string name="cakalang" translatable="false">Ikan Cakalang Asar</string>
+    <string name="gence_ruan" translatable="false">Gence Ruan</string>
+    <string name="mi_gomak" translatable="false">Mie Gomak</string>
+    <string name="gudeg" translatable="false">Gudeg</string>
+    <string name="lontong_balap" translatable="false">Lontong Balap</string>
+
+    <string name="sumatera_barat" translatable="false">Sumatera Barat</string>
+    <string name="riau" translatable="false">Riau</string>
+    <string name="sumatera_selatan" translatable="false">Sumatera Selatan</string>
+    <string name="bali" translatable="false">Bali</string>
+    <string name= "ntb" translatable="false">Nusa Tenggara Barat</string>
+    <string name="papua_barat" translatable="false">Papua Barat</string>
+    <string name="kaltim" translatable="false">Kalimantan Timur</string>
+    <string name="sumatera_utara" translatable="false">Sumatera Utara</string>
+    <string name="diy" translatable="false">Daerah Istimewa Yogyakarta</string>
+    <string name="jatim" translatable="false">Jawa Timur</string>
+
+    <string name="button_previous" translatable="false">Previous</string>
+    <string name="button_next" translatable="false">Next</string>
+</resources>
